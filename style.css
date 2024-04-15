@@ -1,0 +1,30 @@
+/* Font Import */
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+
+/* CSS RESET */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+input, button, textarea, select {
+  font: inherit;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+img, picture, video, canvas, svg {
+  display: block;
+  width: 100%;
+}
+
+/* PROJECT START */
+
+
